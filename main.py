@@ -72,7 +72,6 @@ if __name__ == '__main__':
 # random_point = random_point_in_circle(center_lat, center_lon, radius)
 # print(f"Random point in circle: Latitude: {random_point[0]}, Longitude: {random_point[1]}")
 # # Initialize gmaps with your Google Cloud API key
-# gmaps.configure(api_key="AIzaSyCxs_Hc9GVT5GYzaQdZB1nG7BIn07mwDac")
 #
 # center_lat = 52.5200  # Berlin latitude
 # center_lon = 13.4050  # Berlin longitude
